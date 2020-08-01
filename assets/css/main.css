@@ -10,7 +10,6 @@ body {
     font-size: 16px;
     font-size: 1.6rem;
     font-family: 'Helvetica Neue', 'Arial', sans-serif;
-    color: #313a3d;
     width: 100%;
     margin: 0 auto;
     padding: 0 16px;
@@ -22,7 +21,6 @@ header#banner {
 }
 
 header#banner a {
-    color: #313a3d;
     text-decoration: none;
 }
 
@@ -52,10 +50,6 @@ header#banner nav ul {
 header#banner nav ul li {
     display: inline;
     margin: 0 3px;
-}
-
-header#banner nav ul li a {
-    color: #454545;
 }
 
 main#content a {

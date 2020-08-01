@@ -3,7 +3,7 @@
 {{ end -}}
 body {
     color: #ebebeb;
-    background: #121212;
+    background: black;
 }
 
 header#banner a {
